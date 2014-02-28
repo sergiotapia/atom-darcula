@@ -1,10 +1,10 @@
 {
-  "name": "rubymine-darcula",
+  "name": "atom-darcula",
   "theme": "ui",
   "version": "0.1.0",
   "description": "RubyMine Darcula inspired theme.",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/sergiotapia/atom-darcula",
   "engines": {
     "atom": ">0.40.0"
   }
