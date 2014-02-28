@@ -1,0 +1,21 @@
+@import "ui-mixins";
+@import "ui-variables";
+
+.status { .text(normal); }
+.status-added {
+  color: #d4705d !important;
+  text-shadow: none;
+}
+
+.status-ignored {
+  color: #797979 !important;
+  text-shadow: none;
+}
+
+.status-modified {
+  color: #6fa6c6 !important;
+  text-shadow: none;
+}
+
+.status-removed { .text(error); }
+.status-renamed { .text(success); }
